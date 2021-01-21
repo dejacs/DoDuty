@@ -19,7 +19,6 @@
 		1DC2C36525B9E837003538FD /* AppRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DC2C36425B9E837003538FD /* AppRouter.swift */; };
 		1DD7C2A025B89D5500C5B5B6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DD7C29F25B89D5500C5B5B6 /* AppDelegate.swift */; };
 		1DD7C2A225B89D5500C5B5B6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DD7C2A125B89D5500C5B5B6 /* SceneDelegate.swift */; };
-		1DD7C2A425B89D5500C5B5B6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1DD7C2A325B89D5500C5B5B6 /* ViewController.swift */; };
 		1DD7C2A725B89D5500C5B5B6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1DD7C2A525B89D5500C5B5B6 /* Main.storyboard */; };
 		1DD7C2AA25B89D5500C5B5B6 /* DoDuty.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1DD7C2A825B89D5500C5B5B6 /* DoDuty.xcdatamodeld */; };
 		1DD7C2AC25B89D5600C5B5B6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1DD7C2AB25B89D5600C5B5B6 /* Assets.xcassets */; };
@@ -67,7 +66,6 @@
 		1DD7C29C25B89D5500C5B5B6 /* DoDuty.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DoDuty.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		1DD7C29F25B89D5500C5B5B6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		1DD7C2A125B89D5500C5B5B6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		1DD7C2A325B89D5500C5B5B6 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		1DD7C2A625B89D5500C5B5B6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		1DD7C2A925B89D5500C5B5B6 /* DoDuty.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = DoDuty.xcdatamodel; sourceTree = "<group>"; };
 		1DD7C2AB25B89D5600C5B5B6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -193,7 +191,6 @@
 				1DC2C29D25B8BAF4003538FD /* AppConfiguration */,
 				1DC2C29425B8BAD9003538FD /* Common */,
 				1DC2C29325B8BAD3003538FD /* Modules */,
-				1DD7C2A325B89D5500C5B5B6 /* ViewController.swift */,
 				1DD7C2A825B89D5500C5B5B6 /* DoDuty.xcdatamodeld */,
 			);
 			path = DoDuty;
@@ -497,7 +494,6 @@
 				1DD7C2D725B8A96D00C5B5B6 /* HomeViewController.swift in Sources */,
 				1DC2C2DB25B8C856003538FD /* DutyViewController.swift in Sources */,
 				1DD7C2AA25B89D5500C5B5B6 /* DoDuty.xcdatamodeld in Sources */,
-				1DD7C2A425B89D5500C5B5B6 /* ViewController.swift in Sources */,
 				1DC2C29F25B8BB5A003538FD /* HomeService.swift in Sources */,
 				1DD7C2DF25B8A98000C5B5B6 /* HomeInteractor.swift in Sources */,
 				1DC2C2EA25B8C991003538FD /* DutyRouter.swift in Sources */,

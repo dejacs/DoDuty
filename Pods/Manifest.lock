@@ -1,0 +1,16 @@
+PODS:
+  - AttributedTextURL (0.0.1)
+
+DEPENDENCIES:
+  - AttributedTextURL
+
+SPEC REPOS:
+  trunk:
+    - AttributedTextURL
+
+SPEC CHECKSUMS:
+  AttributedTextURL: 72d5f5b20283086f87a2047f784dd8f2d98f0940
+
+PODFILE CHECKSUM: 9a009442c531bf24c4dbc38cb756c8972630e3ae
+
+COCOAPODS: 1.10.1

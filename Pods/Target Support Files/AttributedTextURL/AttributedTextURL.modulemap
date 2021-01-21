@@ -1,0 +1,6 @@
+framework module AttributedTextURL {
+  umbrella header "AttributedTextURL-umbrella.h"
+
+  export *
+  module * { export * }
+}
